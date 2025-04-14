@@ -53,7 +53,7 @@
 
 ## 🌐 Portfolio & Links
 
-- 🌍 **Portfolio:** [My Portfolio](https://sairiteshd.vercel.app/)
+- 🌍 **Portfolio:** [My Portfolio](https://ritesh.vercel.app/)
 - 💻 **GitHub:** [@sairiteshdomakuntla](https://github.com/sairiteshdomakuntla)
 - 🐦 **X:** [@avelinesky06](https://x.com/avelineSky06)
 - 👔 **LinkedIn:** [Sai Ritesh Domakuntla](https://www.linkedin.com/in/sai-ritesh-domakuntla-6a3557294/)
