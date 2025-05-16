@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 ---
-
+-->
 ### 🧠 Featured Projects
 
 - 🧩 [**Zyra – Virtual Assistant**](https://github.com/sairiteshdomakuntla/Zyra---Virtual-Assistant)  
