@@ -1,62 +1,84 @@
-# Hi there, I'm Ritesh! 👋
+<h1 align="center">Hi 👋, I'm Sai Ritesh Domakuntla</h1>
+<h3 align="center">Software Developer | Full Stack Enthusiast | Open Source Contributor</h3>
 
-🚀 **Full-Stack Developer | React Enthusiast**\
-💡 Passionate about building interactive and scalable web applications\
-🎨 Love working with modern Frontend designs and animations
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React, Next.js, Tailwind CSS, Redux, TypeScript
-- **Backend:** Node.js, Express, WebSockets (exploring Socket.io)
-- **Database:** MongoDB, SQL
-- **Other Tools:** Git, GitHub,Vercel,Render
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sairiteshdomakuntla&label=Profile%20views&color=0e75b6&style=flat" alt="sairiteshdomakuntla" />
+</p>
 
 ---
 
-## 🔥 Projects
+🌟 I'm currently a **Software Developer Intern at Uravu Labs**, passionate about building impactful digital solutions.  
+🧠 Pursuing B.Tech in CSE | VNR VJIET (2023–2027)  
+🤝 Open Source Contributor | Core Member @ Turing Hut | GDG Campus Web Dev Volunteer  
+📌 Exploring SaaS ideas and building tools for developers & creators.
 
-### 🎥 Anime Streaming Website
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, REST API
-
-- Engineered a high-performance streaming platform with server-side rendering for optimal SEO and load times.
-- Implemented dynamic content loading with efficient pagination and comprehensive anime data integration.
-- Developed a secure user authentication system with personalized recommendations.
-- Designed a responsive UI ensuring a seamless experience across all devices.
-
-### 💬 React Chat App
-
-**Tech Stack:** MERN, Socket.IO
-
-- Built a real-time chat application using React, Node.js, Express, and MongoDB.
-- Integrated Socket.IO for live, bidirectional communication between users.
-- Designed a responsive and intuitive chat interface supporting private and group chats.
-- Implemented authentication and user management for a secure experience.
-
-### 🔍 Lost and Found Website
-
-**Tech Stack:** Next.js
-
-- A platform to help users report and find lost items efficiently.
-- Developed an intuitive UI for easy item listing and searching.
-
-### ✍️ Blog Application
-
-**Tech Stack:** Next.js, Redux, Tailwind CSS
-
-- A modern blogging platform with a sleek UI and dynamic content features.
-- Integrated author and user profiles with post management and authentication.
 
 ---
 
-## 🌐 Portfolio & Links
+### 🚀 Tech Stack & Tools
 
-- 🌍 **Portfolio:** [My Portfolio](https://ritesh.vercel.app/)
-- 💻 **GitHub:** [@sairiteshdomakuntla](https://github.com/sairiteshdomakuntla)
-- 🐦 **X:** [@avelinesky06](https://x.com/avelineSky06)
-- 👔 **LinkedIn:** [Sai Ritesh Domakuntla](https://www.linkedin.com/in/sai-ritesh-domakuntla-6a3557294/)
-- 📧 **Email:** [sairiteshdomakuntla@gmail.com](mailto\:sairiteshdomakuntla@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,html,css,vercel,azure,git,github,linux" />
+</p>
 
-💻 Always open to collaboration and new opportunities! 🚀
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sairiteshdomakuntla&show_icons=true&theme=radical" alt="github stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairiteshdomakuntla&theme=radical" alt="github streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairiteshdomakuntla&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+---
+
+### 🧠 Featured Projects
+
+- 🧩 [**Zyra – Virtual Assistant**](https://github.com/sairiteshdomakuntla/Zyra---Virtual-Assistant)  
+  A Gemini-powered neon-themed assistant with voice + caption support.
+
+- 🎮 [**Gamified Habit Tracker**](https://github.com/sairiteshdomakuntla/Gamified-Habit-Tracker)  
+  Habit tracker with levels, XP, and rewards – Winner of a Hackathon!
+
+- 📚 [**Library Management System**](https://library.24ninjas.in/)  
+  Full system hosted on Azure (private repo, domain: `library.24ninjas.in`)
+
+- 💬 [**WhatsApp Clone (Interest-Based)**](https://github.com/sairiteshdomakuntla/WhatsApp-Clone)  
+  MERN stack clone with interest-based chat rooms and real-time messaging
+
+- 🎥 [**Anime Stream**](https://github.com/sairiteshdomakuntla/Anime-Stream)  
+  Optimized platform for smooth anime streaming with clean UI/UX
+
+👉 [View All Projects](https://github.com/sairiteshdomakuntla?tab=repositories)
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 Portfolio: [ritesh.vercel.app](https://ritesh.vercel.app/)
+- 🔗 LinkedIn: [@sai-ritesh-domakuntla](https://www.linkedin.com/in/sai-ritesh-domakuntla/)
+- 🐦 X(Twitter): [@avelinesky06](https://x.com/avelineSky06)
+- ✉️ Email: `sairiteshdomakuntla@gmail.com`
+
+---
+
+### 🧠 Fun Facts
+
+- 🔍 Currently exploring AI-based developer tools (like code visualizers).
+- 💬 Ask me about Web Apps, Real-time Chat, CI/CD, APIs, and Databases.
+- 🔥 Always up for building MVPs for exciting ideas.
+
+---
+
+### 🕰️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Replace with GitHub Activity or WakaTime if integrated -->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">Let's build something great together 🚀</p>
