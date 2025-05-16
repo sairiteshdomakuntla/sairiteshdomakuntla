@@ -1,8 +1,10 @@
 name: Update Recent Activity
 
+# Temporarily disable scheduled runs
+# on:
+#   schedule:
+#     - cron: '0 * * * *' # Runs every hour
 on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
 
 jobs:
