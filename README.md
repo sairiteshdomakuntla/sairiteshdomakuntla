@@ -7,11 +7,18 @@
 
 ---
 
+<!-- 
 🌟 I'm currently a **Software Developer Intern at Uravu Labs**, passionate about building impactful digital solutions.  
 🧠 Pursuing B.Tech in CSE | VNR VJIET (2023–2027)  
 🤝 Open Source Contributor | Core Member @ Turing Hut | GDG Campus Web Dev Volunteer  
-📌 Exploring SaaS ideas and building tools for developers & creators.
+📌 Exploring SaaS ideas and building tools for developers & creators. 
+-->
 
+
+🌟 Passionate about building impactful digital solutions and creative tools  
+🧠 Pursuing B.Tech in CSE | VNR VJIET (2023–2027)  
+🤝 Open Source Contributor | Core Member @ Turing Hut | GDG Campus Web Dev Volunteer  
+📌 Exploring SaaS ideas and building tools for developers & creators
 
 ---
 
