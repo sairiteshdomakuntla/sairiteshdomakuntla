@@ -73,11 +73,11 @@
 
 ---
 
-### 🕰️ Recent Activity
+### 🕰️ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- Replace with GitHub Activity or WakaTime if integrated -->
 <!--END_SECTION:activity-->
+
 
 ---
 
