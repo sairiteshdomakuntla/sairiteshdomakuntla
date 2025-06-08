@@ -22,7 +22,7 @@
   <li>🎓 B.Tech in CSE @ <strong>VNR VJIET (2023–2027)</strong></li>
   <li>💬 Ask me about <strong>React.js, Tailwind CSS, MERN, Azure, GitHub Actions</strong></li>
   <li>📫 Reach out: <a href="mailto:sairiteshdomakuntla@gmail.com">sairiteshdomakuntla@gmail.com</a></li>
-  <li>🌐 Portfolio: <a href="https://ritesh.vercel.app" target="blank">ritesh.vercel.app</a></li>
+  <li>🌐 Portfolio: <a href="https://www.sairitesh.me/" target="blank">sairitesh.me</a></li>
 </ul>
 
 <h3 align="center">
