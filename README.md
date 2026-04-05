@@ -78,27 +78,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=620&lines=Full-Stack+Engineer+%7C+AI+Systems+Builder;DSA+Enthusiast+%7C+Java+%7C+Problem+Solver;Vibe+Coder+%7C+From+idea+to+deployment%2C+fast;Open+to+freelance+%26+collaboration" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Premium cohesive badge row -->
-<a href="https://www.sairitesh.me/" target="_blank"><img src="https://img.shields.io/badge/FREELANCER-ACTIVE-4ade80?style=flat-square&labelColor=0f0c29&color=4ade80&logoColor=white" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/B.Tech%20CSE-VNR%20VJIET%20'27-818cf8?style=flat-square&labelColor=0f0c29&color=818cf8" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hyderabad,%20India-f472b6?style=flat-square&labelColor=0f0c29&color=f472b6&logo=googlemaps&logoColor=white" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=sairiteshdomakuntla&style=flat-square&color=0f0c29&label=VIEWS" />
+![Freelancer](https://img.shields.io/badge/FREELANCER-ACTIVE-4ade80?style=flat-square&labelColor=1a1a2e)
+![Education](https://img.shields.io/badge/B.Tech%20CSE-VNR%20VJIET%20'27-818cf8?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/Hyderabad%2C%20India-f472b6?style=flat-square&labelColor=1a1a2e)
+![Views](https://komarev.com/ghpvc/?username=sairiteshdomakuntla&style=flat-square&color=1a1a2e&label=VIEWS)
 
-<br/><br/>
+<br/>
 
-<!-- Contact row — same flat-square style, same dark base -->
-<a href="mailto:sairiteshdomakuntla@gmail.com"><img src="https://img.shields.io/badge/Gmail-sairiteshdomakuntla-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
-&nbsp;
-<a href="https://www.sairitesh.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sairitesh.me-4ade80?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sai-ritesh-domakuntla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/sairitesh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-sairitesh-fbbf24?style=flat-square&logo=leetcode&logoColor=white&labelColor=0f0c29" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-sairiteshdomakuntla-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:sairiteshdomakuntla@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sairitesh.me-4ade80?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://www.sairitesh.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/sai-ritesh-domakuntla/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sairitesh-fbbf24?style=flat-square&logo=leetcode&logoColor=white&labelColor=1a1a2e)](https://leetcode.com/u/sairitesh/)
 
 </div>
 
@@ -198,9 +190,9 @@ Voice input · Live captions · Gemini API · Sleek dark UI
 </table>
 
 <div align="center">
-  <a href="https://github.com/sairiteshdomakuntla?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories%20→-0f0c29?style=flat-square&logo=github&logoColor=white&color=302b63" />
-  </a>
+
+[![All Repos](https://img.shields.io/badge/View%20All%20Repositories%20%E2%86%92-302b63?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/sairiteshdomakuntla?tab=repositories)
+
 </div>
 
 ---
@@ -209,27 +201,9 @@ Voice input · Live captions · Gemini API · Sleek dark UI
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,py,ts,js&theme=dark" />
+**Languages** · **Frontend** · **Backend** · **Databases & Infra**
 
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,vite,html,css&theme=dark" />
-
-<br/><br/>
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
-
-<br/><br/>
-
-**Databases & Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,azure,vercel,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,nextjs,react,tailwind,redux,vite,fastapi,nodejs,express,mongodb,mysql,sqlite,azure,vercel,git,github,linux&theme=dark&perline=10" />
 
 </div>
 
@@ -260,12 +234,12 @@ I take on **freelance projects** — from MVPs to production deployments. Past w
 - MVPs shipped fast — vibe coding at its best
 
 <div align="center">
-  <br/>
-  <a href="mailto:sairiteshdomakuntla@gmail.com"><img src="https://img.shields.io/badge/Email-sairiteshdomakuntla%40gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
-  &nbsp;
-  <a href="https://www.sairitesh.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sairitesh.me-4ade80?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sai-ritesh-domakuntla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-sairiteshdomakuntla-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:sairiteshdomakuntla@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sairitesh.me-4ade80?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://www.sairitesh.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/sai-ritesh-domakuntla/)
+
 </div>
 
 ---
