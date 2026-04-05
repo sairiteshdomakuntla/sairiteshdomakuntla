@@ -72,21 +72,33 @@
 
 <div align="center">
 
-<!-- Animated Name Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sai%20Ritesh%20Domakuntla&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20Systems%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Freelancer&descAlignY=58&descSize=16&descColor=a0a0ff&animation=fadeIn" width="100%" />
 
-<!-- Typing SVG -->
 <a href="https://www.sairitesh.me/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Engineer+%7C+AI+Systems+Builder;Shipped+4%2B+production-grade+AI+products;FastAPI+%C2%B7+Next.js+%C2%B7+YOLOv8+%C2%B7+RAG+%C2%B7+WebSockets;Open+to+freelance+%26+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=620&lines=Full-Stack+Engineer+%7C+AI+Systems+Builder;DSA+Enthusiast+%7C+Java+%7C+Problem+Solver;Vibe+Coder+%7C+From+idea+to+deployment%2C+fast;Open+to+freelance+%26+collaboration" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Quick Stats Row -->
-<img src="https://img.shields.io/badge/Freelancer-Active-4ade80?style=for-the-badge&logo=fiverr&logoColor=white" />
-<img src="https://img.shields.io/badge/B.Tech%20CSE-VNR%20VJIET%20'27-818cf8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20IN-f472b6?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=sairiteshdomakuntla&style=for-the-badge&color=0e1117&label=PROFILE+VIEWS" />
+<!-- Premium cohesive badge row -->
+<a href="https://www.sairitesh.me/" target="_blank"><img src="https://img.shields.io/badge/FREELANCER-ACTIVE-4ade80?style=flat-square&labelColor=0f0c29&color=4ade80&logoColor=white" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech%20CSE-VNR%20VJIET%20'27-818cf8?style=flat-square&labelColor=0f0c29&color=818cf8" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hyderabad,%20India-f472b6?style=flat-square&labelColor=0f0c29&color=f472b6&logo=googlemaps&logoColor=white" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sairiteshdomakuntla&style=flat-square&color=0f0c29&label=VIEWS" />
+
+<br/><br/>
+
+<!-- Contact row — same flat-square style, same dark base -->
+<a href="mailto:sairiteshdomakuntla@gmail.com"><img src="https://img.shields.io/badge/Gmail-sairiteshdomakuntla-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
+&nbsp;
+<a href="https://www.sairitesh.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sairitesh.me-4ade80?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sai-ritesh-domakuntla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
+&nbsp;
+<a href="https://leetcode.com/u/sairitesh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-sairitesh-fbbf24?style=flat-square&logo=leetcode&logoColor=white&labelColor=0f0c29" /></a>
 
 </div>
 
@@ -96,23 +108,25 @@
 
 ```typescript
 const ritesh = {
-  role:       "Full-Stack Engineer & AI Systems Builder",
-  focus:      ["AI-powered products", "real-time systems", "scalable backends"],
-  currently:  "Building production-grade AI applications with FastAPI, Next.js & LLMs",
-  freelance:  true,   // ← available for projects
-  education:  "B.Tech CSE @ VNR VJIET (2023–2027)",
-  contact:    "sairiteshdomakuntla@gmail.com",
-  portfolio:  "https://www.sairitesh.me/",
+  role:        "Full-Stack Engineer & AI Systems Builder",
+  focus:       ["AI-powered products", "real-time systems", "scalable backends"],
+  currently:   "Building production-grade AI apps with FastAPI, Next.js & LLMs",
+  vibeCoding:  true,  // idea → deployed product, fast
+  dsa:         "Java · grinding LeetCode · patterns over memorization",
+  freelance:   true,  // ← available for projects
+  education:   "B.Tech CSE @ VNR VJIET (2023–2027)",
+  contact:     "sairiteshdomakuntla@gmail.com",
+  portfolio:   "https://www.sairitesh.me/",
 };
 ```
 
-I build **end-to-end AI systems** — from computer vision pipelines and vector search engines to real-time collaboration platforms. I care about shipping things that actually work at scale, not just demos.
+I build **end-to-end AI systems** — from vector search engines to real-time collaboration platforms. I care about shipping things that actually work at scale, not just demos.
 
 ---
 
 ## 🚀 Featured Projects
 
-> Hand-picked from my portfolio — production-level, fully engineered systems.
+> Hand-picked — production-level, fully engineered systems.
 
 <table width="100%">
 <tr>
@@ -121,9 +135,9 @@ I build **end-to-end AI systems** — from computer vision pipelines and vector 
 ### 🏋️ [UNBROKEN — AI Fitness Platform](https://github.com/sairiteshdomakuntla)
 **The most complete AI trainer you can build**
 
-Real-time YOLOv8 pose tracking · Adaptive workout + meal plans · Recovery intelligence · WebSocket community · Gemini coaching
+Real-time pose tracking · Adaptive workout + meal plans · Recovery intelligence · WebSocket community · Gemini coaching
 
-`Next.js` `FastAPI` `YOLOv8` `MongoDB` `WebSockets` `Gemini`
+`Next.js` `FastAPI` `MongoDB` `WebSockets` `Gemini`
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +147,7 @@ Real-time YOLOv8 pose tracking · Adaptive workout + meal plans · Recovery inte
 
 Auto-ingests files → FAISS vector store → RAG chat → Force-directed relationship graph. Real-time via WebSockets.
 
-`FastAPI` `FAISS` `Ollama` `React` `D3.js` `UMAP` `SQLite`
+`FastAPI` `FAISS` `Ollama` `React` `D3.js` `SQLite`
 
 </td>
 </tr>
@@ -143,9 +157,9 @@ Auto-ingests files → FAISS vector store → RAG chat → Force-directed relati
 ### 🤝 [TeamSync AI — Collaborative Workspace](https://github.com/sairiteshdomakuntla)
 **GitHub + Notion + Google Meet in one AI workspace**
 
-Semantic search · AI onboarding paths · Real-time chat · Repository architecture summaries · Meeting note generation
+Semantic search · AI onboarding paths · Real-time chat · Repo architecture summaries · Meeting note generation
 
-`React` `Node.js` `Socket.IO` `Weaviate` `Gemini` `GitHub API` `Notion API`
+`React` `Node.js` `Socket.IO` `Weaviate` `Gemini` `GitHub API`
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +167,7 @@ Semantic search · AI onboarding paths · Real-time chat · Repository architect
 ### 🎮 [HabitQuest AI — Gamified Habit Tracker](https://github.com/sairiteshdomakuntla/Gamified-Habit-Tracker)
 **Habit tracking meets RPG progression. Hackathon winner.**
 
-XP · Levels · Leaderboards · Gemini AI coach · Pomodoro · TensorFlow.js gesture quiz
+XP · Levels · Leaderboards · Gemini AI coach · Pomodoro · Gesture quiz
 
 `React` `Redux Toolkit` `Express` `MongoDB` `Gemini` `TensorFlow.js`
 
@@ -165,9 +179,9 @@ XP · Levels · Leaderboards · Gemini AI coach · Pomodoro · TensorFlow.js ges
 ### 📚 [Library Management System](https://library.24ninjas.in/) *(Freelance)*
 **Delivered for a client. Live on Azure with custom domain.**
 
-Full CRUD system for book/member/loan management. Deployed on Azure App Service with CI/CD.
+Full CRUD for books, members & loans. Azure App Service + CI/CD via GitHub Actions.
 
-`Azure` `GitHub Actions` `Node.js` `MongoDB` `Custom Domain`
+`Azure` `GitHub Actions` `Node.js` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
@@ -175,9 +189,9 @@ Full CRUD system for book/member/loan management. Deployed on Azure App Service 
 ### ⚡ [Zyra — AI Virtual Assistant](https://github.com/sairiteshdomakuntla/Zyra---Virtual-Assistant)
 **Neon-themed voice assistant powered by Gemini**
 
-Voice input · Live captions · Gemini API integration · Sleek dark UI
+Voice input · Live captions · Gemini API · Sleek dark UI
 
-`Gemini API` `Web Speech API` `JavaScript` `CSS Animations`
+`Gemini API` `Web Speech API` `JavaScript`
 
 </td>
 </tr>
@@ -185,7 +199,7 @@ Voice input · Live captions · Gemini API integration · Sleek dark UI
 
 <div align="center">
   <a href="https://github.com/sairiteshdomakuntla?tab=repositories">
-    <img src="https://img.shields.io/badge/→%20View%20All%20Repositories-0f0c29?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories%20→-0f0c29?style=flat-square&logo=github&logoColor=white&color=302b63" />
   </a>
 </div>
 
@@ -213,24 +227,9 @@ Voice input · Live captions · Gemini API integration · Sleek dark UI
 
 <br/><br/>
 
-**AI / ML & Specialized Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-&nbsp;&nbsp;
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0f0c29?style=flat-square&logo=ultralytics&logoColor=f472b6)
-![Gemini](https://img.shields.io/badge/Gemini_API-0f0c29?style=flat-square&logo=google&logoColor=4ade80)
-![FAISS](https://img.shields.io/badge/FAISS-0f0c29?style=flat-square&logo=meta&logoColor=818cf8)
-![Ollama](https://img.shields.io/badge/Ollama-0f0c29?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0f0c29?style=flat-square&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-0f0c29?style=flat-square&logo=socket.io&logoColor=white)
-
-<br/><br/>
-
 **Databases & Infrastructure**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,azure,vercel,git,github,linux&theme=dark" />
-&nbsp;&nbsp;
-![Weaviate](https://img.shields.io/badge/Weaviate-0f0c29?style=flat-square&logo=weaviate&logoColor=f472b6)
 
 </div>
 
@@ -240,17 +239,11 @@ Voice input · Live captions · Gemini API integration · Sleek dark UI
 
 <div align="center">
 
-**Practicing in Java &nbsp;·&nbsp; Building algorithmic thinking, one problem at a time**
+**Java &nbsp;·&nbsp; Patterns over memorization &nbsp;·&nbsp; Consistent grind**
 
 <br/>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sairitesh?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/sairitesh/)
-
-<br/>
-
-<a href="https://leetcode.com/u/sairitesh/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%40sairitesh-fbbf24?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
 
 </div>
 
@@ -258,26 +251,21 @@ Voice input · Live captions · Gemini API integration · Sleek dark UI
 
 ## 💼 Freelance & Open to Work
 
-I take on **freelance projects** — from MVPs to production deployments. Past work includes a live client project (Library Management System) deployed on Azure.
+I take on **freelance projects** — from MVPs to production deployments. Past work includes a live client deployment on Azure with a custom domain.
 
 **What I can build for you:**
-- AI-powered web applications (LLMs, RAG, computer vision)
-- Full-stack platforms (Next.js, FastAPI, MERN)
-- Real-time systems (WebSockets, live dashboards)
-- Cloud deployments (Azure, Vercel, CI/CD pipelines)
+- Full-stack web apps and AI-powered products
+- Real-time systems — WebSockets, live dashboards, chat
+- Cloud deployments — Azure, Vercel, CI/CD pipelines
+- MVPs shipped fast — vibe coding at its best
 
 <div align="center">
-  <a href="mailto:sairiteshdomakuntla@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-sairiteshdomakuntla%40gmail.com-818cf8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <br/>
+  <a href="mailto:sairiteshdomakuntla@gmail.com"><img src="https://img.shields.io/badge/Email-sairiteshdomakuntla%40gmail.com-818cf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
   &nbsp;
-  <a href="https://www.sairitesh.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sairitesh.me-4ade80?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://www.sairitesh.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sairitesh.me-4ade80?style=flat-square&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sai-ritesh-domakuntla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/sai-ritesh-domakuntla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
 </div>
 
 ---
