@@ -196,61 +196,62 @@ Voice input · Live captions · Gemini API integration · Sleek dark UI
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,ts,js&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=4ade80)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=818cf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=fbbf24)
-![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=f472b6)
+<br/><br/>
 
 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,vite,html,css&theme=dark" />
 
-![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=38bdf8)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4)
-![Redux](https://img.shields.io/badge/Redux-0f0c29?style=for-the-badge&logo=redux&logoColor=a855f7)
+<br/><br/>
 
 **Backend & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=4ade80)
-![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
-![Express](https://img.shields.io/badge/Express-0f0c29?style=for-the-badge&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-0f0c29?style=for-the-badge&logo=socket.io&logoColor=white)
+<br/><br/>
 
-**AI / ML**
+**AI / ML & Specialized Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+&nbsp;&nbsp;
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0f0c29?style=flat-square&logo=ultralytics&logoColor=f472b6)
+![Gemini](https://img.shields.io/badge/Gemini_API-0f0c29?style=flat-square&logo=google&logoColor=4ade80)
+![FAISS](https://img.shields.io/badge/FAISS-0f0c29?style=flat-square&logo=meta&logoColor=818cf8)
+![Ollama](https://img.shields.io/badge/Ollama-0f0c29?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0f0c29?style=flat-square&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0f0c29?style=flat-square&logo=socket.io&logoColor=white)
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-0f0c29?style=for-the-badge&logo=ultralytics&logoColor=f472b6)
-![Gemini](https://img.shields.io/badge/Gemini%20API-0f0c29?style=for-the-badge&logo=google&logoColor=4ade80)
-![FAISS](https://img.shields.io/badge/FAISS-0f0c29?style=for-the-badge&logo=meta&logoColor=818cf8)
-![Ollama](https://img.shields.io/badge/Ollama-0f0c29?style=for-the-badge&logo=ollama&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=f97316)
-![OpenCV](https://img.shields.io/badge/OpenCV-0f0c29?style=for-the-badge&logo=opencv&logoColor=5de0e6)
+<br/><br/>
 
-**Databases & Infra**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=4ade80)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=818cf8)
-![SQLite](https://img.shields.io/badge/SQLite-0f0c29?style=for-the-badge&logo=sqlite&logoColor=38bdf8)
-![Weaviate](https://img.shields.io/badge/Weaviate-0f0c29?style=for-the-badge&logo=weaviate&logoColor=f472b6)
-![Azure](https://img.shields.io/badge/Azure-0f0c29?style=for-the-badge&logo=microsoftazure&logoColor=38bdf8)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0f0c29?style=for-the-badge&logo=githubactions&logoColor=white)
+**Databases & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,azure,vercel,git,github,linux&theme=dark" />
+&nbsp;&nbsp;
+![Weaviate](https://img.shields.io/badge/Weaviate-0f0c29?style=flat-square&logo=weaviate&logoColor=f472b6)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 DSA & Problem Solving
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sairiteshdomakuntla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=818cf8&icon_color=4ade80&text_color=c7d2fe&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairiteshdomakuntla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=818cf8&text_color=c7d2fe&langs_count=8" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sairiteshdomakuntla&theme=tokyonight&hide_border=true&background=0f0c29&ring=818cf8&fire=f472b6&currStreakLabel=4ade80&sideLabels=c7d2fe&dates=a0a0ff" width="60%" />
-</div>
+**Practicing in Java &nbsp;·&nbsp; Building algorithmic thinking, one problem at a time**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairiteshdomakuntla&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=818cf8&line=4ade80&point=f472b6&area=true" width="95%" />
+<br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sairitesh?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/sairitesh/)
+
+<br/>
+
+<a href="https://leetcode.com/u/sairitesh/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%40sairitesh-fbbf24?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 </div>
 
 ---
