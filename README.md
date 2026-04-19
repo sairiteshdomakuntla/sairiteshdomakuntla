@@ -203,7 +203,7 @@ Voice input · Live captions · Gemini API · Sleek dark UI
 
 **Languages** · **Frontend** · **Backend** · **Databases & Infra**
 
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,nextjs,react,tailwind,redux,vite,fastapi,nodejs,express,mongodb,mysql,sqlite,azure,vercel,git,github,linux&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,nextjs,react,tailwind,redux,vite,fastapi,nodejs,express,mongodb,mysql,sqlite,aws,vercel,git,github,linux&theme=dark&perline=10" />
 
 </div>
 
@@ -230,7 +230,7 @@ I take on **freelance projects** — from MVPs to production deployments. Past w
 **What I can build for you:**
 - Full-stack web apps and AI-powered products
 - Real-time systems — WebSockets, live dashboards, chat
-- Cloud deployments — Azure, Vercel, CI/CD pipelines
+- Cloud deployments — AWS, Vercel, CI/CD pipelines
 - MVPs shipped fast — vibe coding at its best
 
 <div align="center">
