@@ -171,7 +171,7 @@ XP · Levels · Leaderboards · Gemini AI coach · Pomodoro · Gesture quiz
 ### 📚 [Library Management System](https://library.24ninjas.in/) *(Freelance)*
 **Delivered for a client. Live on Azure with custom domain.**
 
-Full CRUD for books, members & loans. Azure App Service + CI/CD via GitHub Actions.
+Full CRUD for books & members. Azure App Service + CI/CD via GitHub Actions.
 
 `Azure` `GitHub Actions` `Node.js` `MongoDB`
 
